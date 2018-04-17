@@ -1,5 +1,5 @@
 ## WARNING
-Original project name is: `eisenhower-matrix`
+Original project name is: `eisenhower-matrix`<br/>
 You must rename this folder to the above in order to run it via `npm start` or `yarn start`.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).

@@ -1,6 +1,6 @@
 ## WARNING
 **Original project name is: `eisenhower-matrix`<br/>
-You must rename this folder to the above in order to run it via `npm start` or `yarn start`.**
+You must rename this folder to the above before you can run it via `npm start` / `yarn start`.**
 
 <hr/>
 
